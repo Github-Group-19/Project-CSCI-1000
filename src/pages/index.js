@@ -1,3 +1,5 @@
+//Lina Park: https://linapark.netlify.app
+
 import Head from 'next/head'
 
 export default function Home() {
