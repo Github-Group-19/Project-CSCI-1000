@@ -12,7 +12,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='linapark.JPG'
+            src='/public/linapark.JPG'
             alt='linapark'
           />
 
